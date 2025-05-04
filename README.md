@@ -3,6 +3,7 @@ O Manga Play será a plataforma de streaming da Manga Rosa. Nela, vocês deverã
 
 Link para o dataset: https://drive.google.com/drive/folders/1oVq3bZhEznLWbcabT3cDOc2unzMswP0y?usp=sharing
 
-# Equipe: <nome-da-equipe>
-1. <Nome de fulano>
-2. <Nome de fulana>
+# Equipe: <triorevolucionario>
+1. <Tiago Sângil Palmeira Lima>
+2. <Matheus Nogueira Brito>
+3. <Jonatas Admilson Paixão Santos>
