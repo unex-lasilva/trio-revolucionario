@@ -6,4 +6,4 @@ Link para o dataset: https://drive.google.com/drive/folders/1oVq3bZhEznLWbcabT3c
 # Equipe: <triorevolucionario>
 1. <Tiago Sângil Palmeira Lima>
 2. <Jonatas Admilson Paixão Santos>
-3. <MatheusNogueiraBrito>
+3. <Matheus Nogueira Bríto>
